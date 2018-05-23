@@ -1,0 +1,25 @@
+1.    What is merge conflict and how do you resolve?
+2.    What will be the output for git remote -v and how many lines it can display in the output of the command?
+3.    Can we add more remotes for the git repository?
+4.    How do you rebase with other developers change without creating a new branch?
+5.    How do you rebase with other developers change which is available in different remote?
+6.    What is subtractive rebase?
+7.    How do you merge two commit changes and push as a single commit?
+8.    What are the process should be followed when developer commits a change and push?
+9.    What is CI and explain the actual usage of CI?
+10.   How do you create a job in Jenkins?
+11.   What are the difference between free-style and pipeline projects in Jenkins?
+12.   What are the build tools you used apart from Jenkins?
+13.   What is maven tool and how do you use it?
+14.   How do you automate test cases?
+15.   How do you avoid same test steps run by different scripts?
+16.   What is function in shell script?
+17.   How do you use python framework to automate test cases?
+18.   At what situation you have used perl script to automate things?
+19.   Have you written groovy scripts?
+20.   Have you written gradle scripts?
+21.   How do you modify and use 32 bit library in 64 bit OS?
+22.   Have you installed different OS or different version of OS on top Ubuntu or linux?
+23.   How do you install required libraries tools and make sure server is up?
+24.   How do you configure networking with different servers?
+25.   What are the challenging issues you faced and how did you resolve?
