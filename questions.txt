@@ -26,3 +26,5 @@
 
 on f1 branch change
 on local changes
+on hub change
+
