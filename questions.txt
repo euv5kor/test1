@@ -23,3 +23,5 @@
 23.   How do you install required libraries tools and make sure server is up?
 24.   How do you configure networking with different servers?
 25.   What are the challenging issues you faced and how did you resolve?
+on master change
+
